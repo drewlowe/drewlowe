@@ -10,10 +10,15 @@
 
 ## 🛠️ **Tech Stack**
 ![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Language-Java-007396?logo=java&logoColor=white)  
+![Kotlin](https://img.shields.io/badge/Language-Kotlin-0095D5?logo=kotlin&logoColor=white)  
+![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)  
 ![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react)
 ![Next.js](https://img.shields.io/badge/Framework-Next.js-000000?logo=next.js)
 ![React Native](https://img.shields.io/badge/Mobile-React%20Native-61DAFB?logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/Mobile%20Framework-Expo-000020?logo=expo&logoColor=white)
+![Spring](https://img.shields.io/badge/Framework-Spring-6DB33F?logo=spring&logoColor=white)  
+![Vaadin](https://img.shields.io/badge/Framework-Vaadin-00B4F0?logo=vaadin&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Database-Supabase-3ECF8E?logo=supabase)
 ![Prisma](https://img.shields.io/badge/ORM-Prisma-2D3748?logo=prisma&logoColor=white)
