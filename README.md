@@ -28,7 +28,7 @@
 ![Zustand](https://img.shields.io/badge/State%20Management-Zustand-FF9900?logo=zustand)
 ![TailwindCSS](https://img.shields.io/badge/UI-TailwindCSS-38B2AC?logo=tailwindcss)
 ![Jest](https://img.shields.io/badge/Testing-Jest-C21325?logo=jest&logoColor=white)
-![React Scan](https://img.shields.io/badge/Memoization-ReactScan-61DAFB?logo=react&logoColor=white)
+![React Scan](https://img.shields.io/badge/Memoization-react-scan-61DAFB?logo=react&logoColor=white)
 ![axe-core](https://img.shields.io/badge/Accessibility-axe--core-663399?logo=accessibility&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Hosting-Vercel-000000?logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900?logo=amazonaws&logoColor=white)
