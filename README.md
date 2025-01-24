@@ -5,7 +5,7 @@
 
 - 💼 **Tech Sales & Strategy:** Managed over **$7M in revenue** in the past three years.  
 - 📱 **Product Builder:** Full-stack builds for commercial applications - mobile apps, portals, agents.
-- 📚 **Learning:** Exploring **NestJS**, **statistics & probability**, and **agentic frameworks**.  
+- 📚 **Learning:** Exploring **Web3**, **statistics & probability**, and **agentic frameworks**.  
 - 🧭 **Guiding Philosophy:** Drawing on **mimetic theory** to better understand human dynamics and focused on designing **zero-to-one systems** that solve foundational problems.
 
 ## 🛠️ **Tech Stack**
