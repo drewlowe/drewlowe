@@ -13,6 +13,7 @@
 ![Java](https://img.shields.io/badge/Language-Java-007396?logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Language-Kotlin-0095D5?logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
+![Solidity](https://img.shields.io/badge/Language-Solidity-403988?logo=solidity&logoColor=white)
 ![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react)
 ![Next.js](https://img.shields.io/badge/Framework-Next.js-000000?logo=next.js)
 ![React Native](https://img.shields.io/badge/Mobile-React%20Native-61DAFB?logo=react&logoColor=black)
