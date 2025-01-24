@@ -31,6 +31,7 @@
 ![Jest](https://img.shields.io/badge/Testing-Jest-C21325?logo=jest&logoColor=white)
 ![React Scan](https://img.shields.io/badge/Memoization-react--scan-61DAFB?logo=react&logoColor=white)
 ![axe-core](https://img.shields.io/badge/Accessibility-axe--core-663399?logo=accessibility&logoColor=white)
+![ethers.js](https://img.shields.io/badge/Web3-ethers-2535A0?logo=ethers&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Hosting-Vercel-000000?logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900?logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Container-Docker-2496ED?logo=docker&logoColor=white)
