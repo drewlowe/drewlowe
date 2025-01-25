@@ -26,6 +26,8 @@
 ![Node.js](https://img.shields.io/badge/Backend-Node.js-339933?logo=node.js)
 ![NestJS](https://img.shields.io/badge/Backend-NestJS-E0234E?logo=nestjs&logoColor=white)
 ![React Query](https://img.shields.io/badge/Async%20State-React%20Query-FF4154?logo=react-query&logoColor=white)
+![RTK Toolkit](https://img.shields.io/badge/Async%20State-RTK%20Query-764ABC?logo=redux)
+![Redux](https://img.shields.io/badge/State%20Management-Redux-764ABC?logo=redux)
 ![Zustand](https://img.shields.io/badge/State%20Management-Zustand-FF9900?logo=zustand)
 ![TailwindCSS](https://img.shields.io/badge/UI-TailwindCSS-38B2AC?logo=tailwindcss)
 ![Jest](https://img.shields.io/badge/Testing-Jest-C21325?logo=jest&logoColor=white)
