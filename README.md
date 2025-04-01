@@ -81,3 +81,25 @@ I've been building for as long as I can remember. Most of the things I've ever b
 ![Turborepo](https://img.shields.io/badge/Monorepo-Turborepo-000000?logo=turborepo)
 ![S3](https://img.shields.io/badge/Buckets-S3-569A31?logo=amazons3)
 ![Sentry](https://img.shields.io/badge/Monitoring-Sentry-FB4226?logo=sentry)
+
+---
+
+### Quant Tech Stack
+
+![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python)
+![C++](https://img.shields.io/badge/Language-C++-00599C?logo=cplusplus)
+![Pandas](https://img.shields.io/badge/Data%20Analysis-Pandas-150458?logo=pandas)
+![NumPy](https://img.shields.io/badge/Data%20Analysis-NumPy-013243?logo=numpy)
+![SciPy](https://img.shields.io/badge/Modeling-SciPy-8CAAE6?logo=scipy)
+![Statsmodels](https://img.shields.io/badge/Modeling-Statsmodels-10A37F?logo=python)
+![Matplotlib](https://img.shields.io/badge/Data%20Viz-Matplotlib-11557C?logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/Data%20Viz-Seaborn-4B8BBE?logo=seaborn)
+![Streamlit](https://img.shields.io/badge/Dashboard-Streamlit-FF4B4B?logo=streamlit)
+![scikit-learn](https://img.shields.io/badge/ML%2FStats-scikit--learn-F7931E?logo=scikit-learn)
+![Prophet](https://img.shields.io/badge/Time%20Series-Prophet-0052CC?logo=meta)
+![Backtrader](https://img.shields.io/badge/Backtesting-Backtrader-00B386)
+![QuantConnect](https://img.shields.io/badge/Backtesting-QuantConnect-FF5000?logo=quantconnect)
+![Jupyter](https://img.shields.io/badge/Notebooks-Jupyter-F37626?logo=jupyter)
+![Deepnote](https://img.shields.io/badge/Notebooks-Deepnote-5E5EE5?logo=deepnote)
+![Voila](https://img.shields.io/badge/Notebooks-Voila-336791?logo=voila)
+![TimescaleDB](https://img.shields.io/badge/Database-TimescaleDB-0E1E25?logo=timescaledb)
