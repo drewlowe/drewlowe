@@ -21,7 +21,7 @@ I've been building for as long as I can remember. Most of the things I've ever b
 ![Jest](https://img.shields.io/badge/Testing-Jest-C21325?logo=jest)
 ![Testing Library](https://img.shields.io/badge/Testing-Testing%20Library-E33332?logo=testing-library)
 ![React Scan](https://img.shields.io/badge/Memoization-React%20Scan-61DAFB?logo=react)
-![Lighthouse Server/CI](https://img.shields.io/badge/Accessibility-Lighthouse-F44B21?logo=lighthouse)
+![Lighthouse Server](https://img.shields.io/badge/Accessibility-Lighthouse%20Server-F44B21?logo=lighthouse)
 ![Socket.IO](https://img.shields.io/badge/Websockets-Socket.IO-010101?logo=socket.io)
 ![Google Analytics](https://img.shields.io/badge/Analytics-Google%20Analytics-E37400?logo=google-analytics)
 ![Stripe](https://img.shields.io/badge/Payments-Stripe-008CDD?logo=stripe)
