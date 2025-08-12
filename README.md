@@ -28,34 +28,6 @@ I've been building for as long as I can remember. Most of the things I've ever b
 
 ---
 
-### Web 3 Tech Stack
-
-![Solidity](https://img.shields.io/badge/Language-Solidity-403988?logo=solidity)
-![Ethereum](https://img.shields.io/badge/Blockchain-Ethereum-3C3C3D?logo=ethereum)
-![Polygon](https://img.shields.io/badge/L2%20Scaling-Polygon-8247E5?logo=polygon)
-![Optimism](https://img.shields.io/badge/L2%20Scaling-Optimism-000000?logo=optimism)
-![Arbitrum](https://img.shields.io/badge/L2%20Scaling-Arbitrum-00D395?logo=arbitrum)
-![zkSync](https://img.shields.io/badge/L2%20Scaling-zkSync-F2F2F2?logo=zksync)
-![Chainlink](https://img.shields.io/badge/Oracles-Chainlink-375BD2?logo=chainlink)
-![Uniswap](https://img.shields.io/badge/Liquidity-Uniswap-FF007A?logo=uniswap)
-![Balancer](https://img.shields.io/badge/Liquidity-Balancer-3A4149)
-![Aave](https://img.shields.io/badge/Liquidity-Aave-2EBAC6?logo=aave)
-![CoW](https://img.shields.io/badge/Arbitrage-CoW-000000)
-![Foundry](https://img.shields.io/badge/Framework-Foundry-000000?logo=solidity)
-![Hardhat](https://img.shields.io/badge/Framework-Hardhat-F6851B?logo=solidity)
-![Infura](https://img.shields.io/badge/Nodes-Infura-E4761B?logo=infura)
-![Alchemy](https://img.shields.io/badge/Nodes-Alchemy-C531FF?logo=alchemy)
-![ethers.js](https://img.shields.io/badge/Web3-ethers-2535A0?logo=ethers)
-![web3.js](https://img.shields.io/badge/Web3-web3.js-F16822?logo=web3dotjs)
-![thirdweb](https://img.shields.io/badge/Web3-thirdweb-F213A4?logo=thirdweb)
-![wagmi](https://img.shields.io/badge/Web3-wagmi-000000?logo=wagmi)
-![RainbowKit](https://img.shields.io/badge/Wallets-RainbowKit-000000)
-![Safe Wallet](https://img.shields.io/badge/Wallets-Safe%20Wallet-000000)
-![IPFS](https://img.shields.io/badge/File%20Storage-IPFS-65C2CB?logo=ipfs)
-![Arweave](https://img.shields.io/badge/File%20Storage-Arweave-000000)
-
----
-
 ### DevOps Tech Stack
 
 ![AWS](https://img.shields.io/badge/Cloud-AWS-232F3E?logo=amazonwebservices)
