@@ -1,7 +1,3 @@
-I've been building for as long as I can remember. Most of the things I've ever built have faded from memory. What little success I've had so far stands on the back of seemingly endless failures. People who meet me today only see the technical skill and the business acumen. They don't see [the years of stupid mistakes and wasted potential](https://drew.so/).
-
-
-
 ### Web 2 Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6?logo=typescript)
